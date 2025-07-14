@@ -6,13 +6,13 @@
 
 ## Features
 
-✅ `<locale-switcher>` — Accessible language dropdown
-✅ `<locale-text>` — Translation-aware text replacement
-✅ FOUC-safe
-✅ Automatic language detection
-✅ Auto-updates `<html lang>` and `dir="rtl"`
-✅ Fully accessible: keyboard + screen reader friendly
-✅ Single JS file, no build tools, no dependencies
+- `<locale-switcher>` — Accessible language dropdown
+- `<locale-text>` — Translation-aware text replacement
+- FOUC-safe
+- Automatic language detection
+- Auto-updates `<html lang>` and `dir="rtl"`
+- Fully accessible: keyboard + screen reader friendly
+- Single JS file, no build tools, no dependencies
 
 ---
 
@@ -78,7 +78,7 @@ For Demo, please clone the repo and run the HTML for preview.
 
 ---
 
-## 🌤️ Example Translations
+## Example Translations
 
 `/locales/bn.json`:
 
@@ -100,7 +100,7 @@ For Demo, please clone the repo and run the HTML for preview.
 
 ---
 
-## 📜 License
+## License
 
 MIT License. Free to use, modify, and share.
 
